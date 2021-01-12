@@ -1,7 +1,7 @@
 type = "webpack"
-name = "drive"
+name = "polished-pond-424a"
 workers_dev = true
 webpack_config = "webpack.config.js"
 kv_namespaces = [
-    { binding = "sa", id = "2f04ca2b5bb944e5997f8bae694902ff" }
+    { binding = "sa", id = "bf28846fd66f409985215594102e4392" }
 ]
